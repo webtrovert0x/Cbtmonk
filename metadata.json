@@ -1,0 +1,5 @@
+{
+  "name": "JAMB CBT Practice",
+  "description": "A JAMB CBT practice application with subject selection, timer, and results breakdown.",
+  "requestFramePermissions": []
+}
